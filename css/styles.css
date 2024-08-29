@@ -7,7 +7,7 @@ body {
   color: #f5f6f7;
   font-family: Tahoma;
   font-size: 16px;
-  background-image: url("/Img/Planetas2.jpeg");
+  background-image: url("../img/planetas2.jpeg");
   display: flex;
   justify-content: center;
 }
